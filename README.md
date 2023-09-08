@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ardo Abdi
-- 👀 I’m interested in Software Development and UI/UX Design
+- 👀 I’m interested in Software Development and UI/UX Design as well as Cloud Engineering 
 - 🌱 I’m currently finished learning AWS Cloud Practitioner 
 - 💞️ I’m looking to collaborate on future projects in Software development or in Cloud Engineering
 - 📫 How to reach me on Linkedin Ardo Abdi
